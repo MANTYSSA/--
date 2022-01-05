@@ -13,7 +13,7 @@ namespace сотт
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        { //sdf
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
